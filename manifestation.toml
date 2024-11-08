@@ -1,0 +1,19 @@
+id = "AshAxolotl.ActiveLureHUD"
+name = "ActiveLureHUD"
+description = "Shows what lure you are using in the bait GUI"
+version = "1.0.0"
+homepage = "https://github.com/AshAxolotl/ActiveLureHUD"
+author = "AshAxolotl"
+
+icon = "icon.png"
+readme = "README.md"
+
+[project]
+godot = "./project/project.godot"
+
+[[dependencies]]
+thunderstore_version = "NotNet-GDWeave-2.0.13"
+
+[[dependencies]]
+id = "BlueberryWolfi.APIs"
+thunderstore_version = "BlueberryWolfi-BlueberryWolfiAPIs-1.0.2"
