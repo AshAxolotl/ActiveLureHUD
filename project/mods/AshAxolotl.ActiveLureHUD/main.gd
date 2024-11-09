@@ -20,5 +20,4 @@ func _ingame():
 
 func _update():
 	if lure_rect != null:
-		print(PlayerData.lure_selected)
 		lure_rect.texture = PlayerData.LURE_DATA[PlayerData.lure_selected]["icon"]
