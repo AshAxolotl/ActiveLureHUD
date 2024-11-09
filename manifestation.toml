@@ -1,7 +1,7 @@
 id = "AshAxolotl.ActiveLureHUD"
 name = "ActiveLureHUD"
 description = "Shows what lure you are using in the bait GUI"
-version = "1.0.0"
+version = "1.0.1"
 homepage = "https://github.com/AshAxolotl/ActiveLureHUD"
 author = "AshAxolotl"
 
